@@ -1,0 +1,22 @@
+.class1 {
+        writing-mode: vertical-rl;
+    }
+.class2 {
+    line-height: 1.7rem;
+    text-align: center;
+}
+.class3 {
+    font-weight: 100;
+}
+.backgroundcolor {
+    background-color: #90ee90;
+    color: #000080;
+}
+.cllassq {
+    width: 20%;
+    height: 20%;
+    background-color: #808000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

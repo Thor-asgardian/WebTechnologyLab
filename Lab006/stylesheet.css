@@ -1,0 +1,43 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightblue;
+    text-align: center;
+    height: 35px;
+   padding-top: 18px;
+}
+a{
+    color: black;
+      margin-right: 10px;
+}
+#about{
+      text-align: center;
+      background-color: aquamarine;
+      height: 200px;
+      padding: 20px;
+      color:black
+}
+button{
+      background-color: orange;
+      color: black;
+      height: 25px;
+}
+#links{
+      background-color: lightblue;
+      text-align: center;
+      margin-top: 0px;
+      height: 230px;
+      display: flex;
+      justify-content: space-around;
+}
+#title{
+      background-color: lightblue;
+      height: 50px;
+      padding-top: 5px;
+      margin-top: 0px;
+}
+footer{
+      background-color: aquamarine;
+      text-align: center;
+      height: 30px;
+}

@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(217, 22, 22);
+    color: greenyellow;
+}
+h1 {
+    text-align: center;
+}
+form {
+    text-align: center; /* Changed display to text-align */
+}
